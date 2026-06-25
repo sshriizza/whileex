@@ -329,7 +329,7 @@ count_case('The quick Brow Fox')
 
 #30
 while True:
-    print("\n1. Add two numbers")
+    print("1. Add two numbers")
     print("2. Subtract two numbers")
     print("3. Multiply two numbers")
     print("4. Exit")
